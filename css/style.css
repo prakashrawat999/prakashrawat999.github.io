@@ -348,7 +348,7 @@ header .follow a:hover{
     flex:1 1 55rem;
     background:#fff;
     padding:0 2rem;
-    box-shadow: 0 .5rem 1rem rgba(0,0,0,.1);
+    box-shadow: 0 .5rem 1rem #17a793;
     border-radius: .5rem;
 }
 
@@ -383,7 +383,7 @@ header .follow a:hover{
 
 .contact .row form .btn{
     margin-top: 0;
-    border-radius: 17px;
+    border-radius: 0px;
     margin-bottom: 15px;
 }
 
